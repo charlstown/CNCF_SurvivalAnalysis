@@ -4,6 +4,9 @@ import json
 import time
 import math
 
+# elastic_loader:
+# This library helps to manage load and upload info and documents to Elasticsearch.
+# To call this library append the path where is located and do an "import elastic_loader"
 
 def load_json(path):
     print('Loading json file...', '\n')
