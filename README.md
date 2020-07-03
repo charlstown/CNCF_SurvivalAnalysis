@@ -20,18 +20,19 @@ The repository is organize by folders following the next categories:
   - cncf_git_data.json
   - cncf_git_mapping.json
 - **02_src**: this folder contains the library needed to load data and execute the notebooks.
-  - loader:
-  - finder: 
+  - elastic_loader.py
+  - elastic_finder.py
 - **03_notebooks**: this folder contains the notebooks elaborated for the work.
-  - ExploratoryDataAnalysis
-  - SurvivalAnalysis
-  - DataLoader
+  - 01_LoadingData.ipynb
+  - 02_ExploratoryDataAnalysis.ipynb
+  - 03_SurvivalAnalysis.ipynb
 - **04_results**: this folder contains the resulting images from the Dashboards.
-  - Dash_GeneralInfo.png: 
-  - Dash_SurvivalAnalysis.png: 
+  - Screen_01.png
+  - Screen_02.png
+  - Screen_Dashboard.png
 - **05_exports**: this folder contains the final objects exported from kibana.
 - **README.md**: file with the instructions to understand the repository.
-- **Report.pdf**: final report from the assignment.
+- **MDS_Report.pdf**: final report from the assignment.
 
 
 
@@ -46,7 +47,7 @@ To run the repository you need to follow the next instructions:
 
 ## 4. Screenshots
 
-
+![Screen_Dashboard](E:\Datos\00_WIP\00_MasterDataScience\03_DataScience III\RecuperacionInformacion\04_Practicas\0621_PracticaFinal\04_results\Screen_Dashboard.png)
 
 ## References & Links
 
