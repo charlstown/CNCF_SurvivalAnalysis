@@ -15,3 +15,7 @@ def search_to_pandas(search):
     results = search['hits']['hits']
     df_documents = pd.DataFrame([doc['_source'] for doc in results])
     return df_documents
+
+def documents_to_pandas(documents):
+    df_documents = pd.DataFrame(documents)
+    return df_documents
