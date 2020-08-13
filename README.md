@@ -47,7 +47,7 @@ To run the repository you need to follow the next instructions:
 
 ## 4. Screenshots
 
-![Screen_Dashboard](.\04_results\Screen_Dashboard.png)
+![Screen_Dashboard](https://github.com/charlstown/CNCF_SurvivalAnalysis/blob/master/04_results/Screen_Dashboard.png?raw=true)
 
 ## References & Links
 
