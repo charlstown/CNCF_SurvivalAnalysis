@@ -47,7 +47,7 @@ To run the repository you need to follow the next instructions:
 
 ## 4. Screenshots
 
-![Screen_Dashboard](E:\Datos\00_WIP\00_MasterDataScience\03_DataScience III\RecuperacionInformacion\04_Practicas\0621_PracticaFinal\04_results\Screen_Dashboard.png)
+![Screen_Dashboard](.\04_results\Screen_Dashboard.png)
 
 ## References & Links
 
